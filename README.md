@@ -102,3 +102,8 @@ Allows payments with OctiFi Payment on your WooCommerce website
 - removed modal pop up functionality
 - min summ functionality created
 - added option to hide text in archives
+
+= 2.0.11 =
+- fixed single product output issue
+- changed single product hooks
+- fixed JS modal layers issue
