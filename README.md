@@ -3,7 +3,7 @@ Contributors: LatitudePay
 Tags: lattiudepay  payments, woocommerce, payment gateway, installments
 Requires at least: 5.7.2
 Tested up to: 5.7.2
-Stable tag: 2.1.1
+Stable tag: 2.1.2
 Requires PHP: 5.5
 License: MIT
 
@@ -113,7 +113,13 @@ Allows payments with lattiudepay Payment on your WooCommerce website
 - Added latitudepay logo
 - Renamed octifi to latitudepay
 
-= 2.1.1 =
+= 2.1.1 = 
+- live mode bug fix 
+- code structure change 
+- cancel payment problem solve 
+- env file changes
+
+= 2.1.2 =
 -live mode bug fix
 -code structure change
 -cancel payment problem solve
