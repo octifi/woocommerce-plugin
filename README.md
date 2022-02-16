@@ -120,7 +120,7 @@ Allows payments with lattiudepay Payment on your WooCommerce website
 - env file changes
 
 = 2.1.2 =
--live mode bug fix
--code structure change
--cancel payment problem solve
--env file changes
+- live mode bug fix
+- code structure change
+- cancel payment problem solve
+- env file changes
