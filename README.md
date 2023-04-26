@@ -129,3 +129,13 @@ Allows payments with lattiudepay Payment on your WooCommerce website
 - Reduce the radius of the Learn more pop up
 - Select country field added at admin side - Select the country dropdown
 - Based on selected country - use the respective env variables
+
+= 2.1.4 =
+- Will replace Be the savvy customer and choose LatitudePay at checkout with Make Every Purchase Affordable
+- Pay only 1/3 today  -> Split your payment into 3 affordable instalments. Always 0% interest and no hidden fees.
+- Use both debit or credit card -> No credit card? No Problem! We accept any Singapore/malaysia bank issued debit cards
+- Will remove the 'Earn 1.5% cashback'   column completely.
+- Updating the t&c link for appropriate country
+
+= 2.1.6 =
+- Code cleanup fixes
