@@ -138,4 +138,10 @@ Allows payments with lattiudepay Payment on your WooCommerce website
 - Updating the t&c link for appropriate country
 
 = 2.1.6 =
-- Code cleanup fixes
+- fixed the broken setting link from the plugin section.
+- changed the base url from "https://k2.octifi.me" to "https://k2.latitudepay.me
+- every where we update the domain to sg.latitudepay.com
+
+= 2.1.7 =
+- bucket domain updated for production
+- after order failed, when we clik on pay button again, the payment option is now visible.
