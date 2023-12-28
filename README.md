@@ -143,5 +143,10 @@ Allows payments with lattiudepay Payment on your WooCommerce website
 - every where we update the domain to sg.latitudepay.com
 
 = 2.1.7 =
-- bucket domain updated for production
-- after order failed, when we clik on pay button again, the payment option is now visible.
+- changed the version number to 2.1.7
+- bucket domain updated for prod
+- after failed the order, when we click on pay button the payment is visible.
+
+= 2.1.8 =
+- changed the version number to 2.1.8
+- Authorise option and payment redirection to WP code compatibility with Woocommerce V8.4 got fixed.
